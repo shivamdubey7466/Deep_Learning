@@ -40,3 +40,8 @@ Thumbs.db
 
 #DATA#
 *.csv
+
+#project folder#
+Projects/first-neural-network/.udacity-pa
+Projects/first-neural-network/Bike-Sharing-Dataset
+my_answers.py
